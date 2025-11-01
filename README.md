@@ -1,9 +1,5 @@
 # Desafio: Execução de Tarefas com AWS Lambda e S3  
 
-![AWS Serverless Architecture](https://d1.awsstatic.com/serverless/Serverless_hero_image.9d07b7e6e3d4e77d.png)
-
----
-
 ##  Objetivo  
 Este desafio faz parte do **Bootcamp AWS Foundations**, com foco em entender a integração entre os serviços **S3, Lambda e DynamoDB**, aplicando o conceito de **Infraestrutura Serverless** na prática.
 
@@ -34,6 +30,9 @@ Ele executa funções de código sob demanda — ou seja, o código é acionado 
 ##  Case Real: Sistema de Processamento de Notas Fiscais  
 
 Este case mostra como a integração entre **S3 + Lambda + DynamoDB + API Gateway** pode automatizar um fluxo real de negócio.
+
+
+![Arquitetura Lambda + S3 + DynamoDB + API Gateway](diagram-lambda-s3.drawio.png)
 
 ###  Cenário: Upload e processamento automático
 
