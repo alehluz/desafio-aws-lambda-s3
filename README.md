@@ -32,6 +32,8 @@ Ele executa funções de código sob demanda — ou seja, o código é acionado 
 Este case mostra como a integração entre **S3 + Lambda + DynamoDB + API Gateway** pode automatizar um fluxo real de negócio.
 
 
+
+
 ![Arquitetura Lambda + S3 + DynamoDB + API Gateway](diagram-lambda-s3.drawio.png)
 
 ###  Cenário: Upload e processamento automático
@@ -66,7 +68,7 @@ Ele é perfeito para desenvolvedores que querem testar integrações sem custos.
 Este desafio mostrou o poder da **automação serverless** e como a combinação de **S3 + Lambda + DynamoDB + API Gateway** cria soluções modernas, seguras e escaláveis.  
 A prática reforçou como a AWS facilita o desenvolvimento de pipelines de dados e aplicações reativas com o mínimo de infraestrutura.  
 
-> “Infraestrutura serverless é sobre fazer mais com menos — mais automação, menos servidores.” ☁️  
+> “Infraestrutura serverless é sobre fazer mais com menos — mais automação, menos servidores.” 
 
 ---
 
